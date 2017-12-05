@@ -1,0 +1,11 @@
+Stop Number,Address,Distance since last stop (km),Time elapsed,Elephants Watered?,Elephants Fed?
+2,2884 US-421,700,10 h 0 min,yes,no,
+5,3800 S Virginia St Reno,345,1 h 30 min,no,no,-,
+3,9905 Sapp Brothers Dr,823,13 h 20 min,yes,no,
+8,Destination 1065 Pool Station Rd,546,10 h 20 min,yes,no,
+7,1880 W Winnemucca Blvd,754,9 h 20 min,yes,no,
+6,1200 W Wendover Blvd,800,9 h 45 min,yes,yes,
+4,1564 N McCue St,720,12 h 20 min,yes,yes,
+1,Toronto Zoo 2000 Meadowvale Rd,0,0 h 0 min,no,no,
+The total time of the trip was: 64 h and 155 mins
+The total distance traveled was: 4688 km
